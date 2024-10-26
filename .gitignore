@@ -1,0 +1,18 @@
+# Ignore virtual environment folder
+env/
+
+# Ignore environment variables and config files
+.env
+client_secret.json
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore log files
+*.log
+
+# Ignore system files
+.DS_Store
+*.dll
+*.lib
